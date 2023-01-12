@@ -1,5 +1,5 @@
-train: ../train/images
-val: ../val/images
+train: /kaggle/working/underwater_image_classification_object-detection-using-YOLO/dataset/images/train
+val: /kaggle/working/underwater_image_classification_object-detection-using-YOLO/dataset/images/val
 
 nc: 7
 names: ['fish', 'jellyfish', 'penguin', 'puffin', 'shark', 'starfish', 'stingray']
